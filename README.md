@@ -29,7 +29,7 @@ The project works directly with the DS hardware rather than relying only on libr
    ```
 
    This produces `platformer-nds.nds` (the file name follows the folder name).
-3. Open the `.nds` file in a Nintendo DS emulator such as [melonDS](https://melonds.kuribo64.net/) or DeSmuME.
+3. Open the `.nds` file in a Nintendo DS emulator such as [melonDS](https://github.com/melonDS-emu/melonDS) or DeSmuME.
 
 ## Controls
 
